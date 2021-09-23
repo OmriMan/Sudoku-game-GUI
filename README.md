@@ -26,16 +26,16 @@ You can always use the "Solve" button:
 
 
 
-You can easily operate the game with any of the buttons and enjoy all the options available!
+* You can easily operate the game with any of the buttons and enjoy all the options available!
 Play, challenge yourself and have fun!
 
 * Requirements
-In order to run the program, the following is required:
+  In order to run the program, the following is required:
 
-Python 3
-tkinter
-tkinter can simply be installed from the command prompt by running pip install tkinter.
-Alternatively, you could download tkinter directly from their website (https://docs.python.org/3/library/tkinter.html).
+  Python 3
+  tkinter
+  tkinter can simply be installed from the command prompt by running pip install tkinter.
+  Alternatively, you could download tkinter directly from their website (https://docs.python.org/3/library/tkinter.html).
 
 * Downloading and running
-After downloading and extracting the zip from the releases page, double click on StartScreen.exe to run the program. Alternatively, open it from an IDE of choice.
+  After downloading and extracting the zip from the releases page, double click on StartScreen.exe to run the program. Alternatively, open it from an IDE of choice.
