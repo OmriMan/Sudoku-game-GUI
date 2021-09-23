@@ -30,6 +30,7 @@ You can always use the "Solve" button:
 Play, challenge yourself and have fun!
 
 * Requirements
+
   In order to run the program, the following is required:
 
   Python 3
@@ -38,4 +39,5 @@ Play, challenge yourself and have fun!
   Alternatively, you could download tkinter directly from their website (https://docs.python.org/3/library/tkinter.html).
 
 * Downloading and running
+
   After downloading and extracting the zip from the releases page, double click on StartScreen.exe to run the program. Alternatively, open it from an IDE of choice.
