@@ -21,7 +21,9 @@ If you made a mistake, the mistake you made will be colored red:
 
 You can always use the "Solve" button:
 
-![image](https://user-images.githubusercontent.com/81520237/134545366-72544c6a-e130-4ad6-9152-f97e43cc6aef.png)
+![image](https://user-images.githubusercontent.com/81520237/134546164-2254af8e-ab36-4e97-8bc4-e6997093f90c.png)
+
+
 
 
 You can easily operate the game with any of the buttons and enjoy all the options available!
